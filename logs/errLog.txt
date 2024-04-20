@@ -1,0 +1,58 @@
+2024 April 13	07:50:49	78eb2423-e804-471a-9dff-a287bcadac5b	Error	:	Not allowed by CORS
+2024 April 13	07:53:03	19e80f00-a776-40bf-be29-d82cf29b973a	Error	:	Not allowed by CORS
+2024 April 13	07:53:03	65a611fe-6a9b-459a-b2e7-6b4330fdde7f	Error	:	Not allowed by CORS
+2024 April 13	07:53:15	82757f00-3b18-4dde-8971-dd77f2113a3a	Error	:	Not allowed by CORS
+2024 April 13	07:53:15	db0e6bb5-389c-4973-9ef4-40953f3843e2	Error	:	Not allowed by CORS
+2024 April 13	07:53:56	facfe94a-be13-4009-b320-215cfe365cc6	Error	:	Not allowed by CORS	url	/
+2024 April 13	07:53:56	1b5072b4-e41f-4538-a8e1-1a1bb92b2236	Error	:	Not allowed by CORS	url	/
+2024 April 13	07:55:22	b74ef2d3-b9ed-42c6-8ffd-24ade841756c	Error	:	Not allowed by CORS		https://www.google.com	/
+2024 April 13	07:55:22	a02b83c2-5bbd-48e8-89c5-052677cd2a04	Error	:	Not allowed by CORS		https://www.google.com	/
+2024 April 13	07:56:03	a151213e-8de2-44c0-8b54-838d52cadbdc	Error	:	Not allowed by CORS		https://www.google.com	/
+2024 April 13	07:56:03	6167d47d-2784-4548-ba0e-8204b7cdac3c	Error	:	Not allowed by CORS		https://www.google.com	/
+2024 April 13	07:56:21	6add6c16-876a-429b-8342-e97a171b6723	Error	:	Not allowed by CORS		https://www.google.com	/
+2024 April 13	07:56:21	b8b1f612-7912-49ef-9bf7-d96dbf8d7b09	Error	:	Not allowed by CORS		https://www.google.com	/
+2024 April 13	07:56:36	e55aba2b-90eb-44fa-9b28-51d0546b97f7	Error	:	Not allowed by CORS		https://www.google.com	/
+2024 April 13	07:56:36	d9b1b498-e5ff-43be-9ffe-b1b354700286	Error	:	Not allowed by CORS		https://www.google.com	/
+2024 April 13	08:35:02	1cb64e5a-33a5-4984-939e-8e4ad25af104	ReferenceError	:	html is not defined		undefined	/css/style.css
+2024 April 13	08:35:08	c1b56b33-74c9-42dc-99d8-24897f84cc3a	ReferenceError	:	html is not defined		undefined	/css/style.css
+2024 April 13	08:35:34	547390da-a700-45d9-9046-a879ee4492f9	ReferenceError	:	html is not defined		undefined	/subdir
+2024 April 13	08:35:47	337d1cac-4620-4d8b-b5e6-a5e091ee1a3d	ReferenceError	:	html is not defined		undefined	/css/style.css
+2024 April 13	08:36:55	f2b858a9-60b9-4b31-a7e2-fb2e43fd7b0b	ReferenceError	:	html is not defined		undefined	/css/style.css
+2024 April 13	08:37:32	e500e32b-5a72-487e-8930-5f25bfb16fcf	ReferenceError	:	html is not defined		undefined	/subdir/css/style.css
+2024 April 13	08:37:39	3829984a-31b2-49b4-8542-5c0c3ea593c6	ReferenceError	:	html is not defined		undefined	/subdir/ind
+2024 April 13	08:37:43	e859d4e2-d7f5-4132-b619-0a9990e38eee	ReferenceError	:	html is not defined		undefined	/css/style.css
+2024 April 13	08:38:04	bf322ea2-095f-439a-9efc-ff7dcd10fc51	ReferenceError	:	html is not defined		undefined	/subdir/three
+2024 April 13	08:39:26	628113cd-5397-4b7e-b964-78e86dd716c9	ReferenceError	:	html is not defined		undefined	/css/style.css
+2024 April 13	08:40:21	36f61ed5-b618-437f-8fec-9e258e1aaeae	ReferenceError	:	html is not defined		undefined	/subdir/css/style.css
+2024 April 13	08:47:54	fdd8861d-c560-4de3-b3d5-8ffa5357c87f	Error	:	ENOENT: no such file or directory, stat '/Users/keyfields/projects/node_js/my_project/routes/views/index.html'		undefined	/
+2024 April 13	08:48:47	893f20d3-09ef-408d-a732-9ef0e98aaf48	Error	:	ENOENT: no such file or directory, stat '/Users/keyfields/projects/node_js/my_project/routes/index.html'		undefined	/
+2024 April 13	18:38:23	2c9f2d05-c18e-4a2b-bc54-1f9758627fa6	ReferenceError	:	html is not defined		undefined	/auth
+2024 April 13	18:38:24	921a23c7-16c0-4c3d-9a66-d6d840b89bbb	ReferenceError	:	html is not defined		undefined	/auth
+2024 April 13	18:38:25	9f04f883-312e-4822-93e6-b27ef9e9179b	ReferenceError	:	html is not defined		undefined	/auth
+2024 April 13	18:38:26	287840ca-f34e-4725-9214-52a2a2b3124f	ReferenceError	:	html is not defined		undefined	/auth
+2024 April 13	18:39:06	f06d06cd-8cbb-4950-83b3-d22f66457717	ReferenceError	:	html is not defined		undefined	/auth
+2024 April 13	18:39:07	f45c4a92-d1c3-4054-b123-350957345990	ReferenceError	:	html is not defined		undefined	/auth
+2024 April 15	09:12:23	5e3beda4-bf22-4f60-b989-b5045f61f71f	Error	:	Not allowed by CORS		http://localhost:3700	/auth
+2024 April 15	09:12:26	8228e856-b5fb-433c-99f6-1eb86dc532a4	Error	:	Not allowed by CORS		http://localhost:3700	/auth
+2024 April 15	09:32:49	00df0fe6-fa3b-4131-a865-9a3f27ba6960	TypeError	:	allowOrigins.contains is not a function		http://localhost:3700	/auth
+2024 April 15	09:33:57	d95117d8-352d-4968-9d37-490ac986831b	TypeError	:	allowOrigins.contains is not a function		http://localhost:3700	/auth
+2024 April 16	10:18:12	52c7bc2d-5620-4d1a-ae78-360a77687c53	TypeError	:	authHeader?.startWith is not a function		undefined	/employees
+2024 April 16	10:18:17	6716b712-a6fb-43d2-a3fa-fd2c4e2f0314	TypeError	:	authHeader?.startWith is not a function		undefined	/employees
+2024 April 16	10:19:06	60400ab8-1942-49e0-af7c-de605c8f14b2	TypeError	:	authHeader.startWith is not a function		undefined	/employees
+2024 April 16	10:19:07	5779eae2-ec32-4e1c-86bb-4320317dfbfc	TypeError	:	authHeader.startWith is not a function		undefined	/employees
+2024 April 16	10:20:25	d9ceac28-c095-467e-8836-428e8a442aff	TypeError	:	Cannot read properties of undefined (reading 'startsWith')		undefined	/employees
+2024 April 16	10:20:31	72c40cf5-6a7f-44b9-a77c-2a68f1f49586	TypeError	:	Cannot read properties of undefined (reading 'startsWith')		undefined	/employees
+2024 April 16	10:20:31	4ba15780-f1de-4a3d-a049-6fffa0d3981a	TypeError	:	Cannot read properties of undefined (reading 'startsWith')		undefined	/employees
+2024 April 17	09:06:08	ae785b7f-455b-47f8-81e0-d322bab41dbc	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:09	1072df5e-6cd7-4d1e-b6cf-adf38996c1d3	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:09	227a6472-e59f-4f7b-ac34-e6c7ebe4adf8	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:09	ef595239-326c-40b8-9532-9333541ef3e9	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:10	c221cb77-5870-422f-9c77-1724ac540eff	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:10	c28ebbec-f977-4714-b432-2d5ad4994ac9	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:11	c29c8e7d-803e-4710-8781-a81c15e5274c	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:11	47ae5f0c-07c3-4f11-9884-051a09357df3	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:11	30ffb5b4-b9c0-4468-adb2-f6bd652c420b	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:11	6de0a757-76ac-4fcd-9087-6eebb58036a6	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:11	f74942c0-688d-43b7-97d1-2ac57c968722	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:12	c50f1eb8-a89b-4962-affb-6cae656b2b8a	ReferenceError	:	allowedRole is not defined		undefined	/employees
+2024 April 17	09:06:14	9560eb2c-c575-4a04-8351-ae8d2d66b909	ReferenceError	:	allowedRole is not defined		undefined	/employees
